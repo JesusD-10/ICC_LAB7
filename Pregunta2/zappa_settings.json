@@ -1,0 +1,9 @@
+{
+    "db": {
+        "app_function": "app.app",
+        "profile_name": null,
+        "project_name": "pregunta2",
+        "runtime": "python3.13",
+        "s3_bucket": "zappa-lab07-p2-jesus-98765"
+    }
+}
